@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv("laboration1.csv")
+df = pd.read_csv("data1.csv")
 
 print(df.head(1))
 
