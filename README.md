@@ -1,2 +1,2 @@
 # Rymdforskarskolan
-My lecture notes for Rymdforskarskolan 2026.
+My lecture notes and data sets for Rymdforskarskolan 2026.
